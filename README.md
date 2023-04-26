@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm APU DEB CHOWDHURY </h1>
 
-<h2 align="center">A passionate MERN Stack Web Developer and Ethical Hacker </h2>
+<h3 align="center">I'm currently pursuing my bachelor's in Computer Science & Engineering. <br> I enjoy building native android & web applications.</h3>
+<h2 align="center"> "A passionate MERN Stack Web Developer and Ethical Hacker" </h2>
 
 <img align="right" alt="Coding" width="370" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
