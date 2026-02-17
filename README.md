@@ -1,4 +1,4 @@
-![MasterHead](https://www.infomazeelite.com/wp-content/uploads/2022/02/Hire-MERN-Stack-Developers-from-us.png)https://www.github.com/imdeb99
+![MasterHead](https://www.infomazeelite.com/wp-content/uploads/2022/02/Hire-MERN-Stack-Developers-from-us.png)
 
 <h1 align="center">Hi 👋, I'm APU DEB CHOWDHURY </h1>
 
